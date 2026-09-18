@@ -1,3 +1,3 @@
 print("vvce")
-print("jeevan ")
+print("jeevn ")
 print("jeevan n j")
