@@ -1,0 +1,6 @@
+print("vvce")
+print("jeevn ")
+print("jeevan n j")
+print("jeevan ")
+print("jevan5n j")
+print("Jeevan nj not is studyng in vvce")
